@@ -9,3 +9,4 @@ def text_demarrage():
 	print("Jeu de rôles en console")
 	print("By Alexis Lebrun")
 	print(separateur)
+
